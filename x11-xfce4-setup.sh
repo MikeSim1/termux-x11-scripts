@@ -14,6 +14,7 @@ pkg install x11-repo
 
 pkg install pulseaudio
 pkg install xfce4
+pkg install virglrenderer-android
 pkg install firefox
 
 echo "Done updating and installing packages."
